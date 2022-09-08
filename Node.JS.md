@@ -17,5 +17,5 @@ Initialize a new project with `pnpm init`. In the `package.json` it is important
 ```
 Change the `"author": ""` into `"authors": []` and make sure to include your name and email. Update the `"main": "index.js"` to `"main": "app.js"` unless there are special circumstances.
 
-## Nodemon
-To speed up the development process we use `Nodemon` to automatically restart the application when a change is made to the source. Install this with `pnpm i -D nodemon`.
+## Dev Dependencies
+For development we use `Nodemon` and the `TypeScript`. Install these with `pnpm i -D nodemon typescript`

@@ -6,7 +6,7 @@
 
 ## Configure TypeScript
 Change the `tsconfig.json` to be:
-```json
+```jsonc
 {
   "compilerOptions": {
     /* Language and Environment */
